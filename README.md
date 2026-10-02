@@ -6,7 +6,7 @@
 
 Guida italiana della community e pianificatore interattivo: una bottega di Tristram per orientarsi, un grimorio per consultare le ricette. Creato da **Ashnar2602**.
 
-[Pubblicazione](#github-pages) · [Contribuire](CONTRIBUTING.md) · [Licenze e attribuzioni](THIRD_PARTY_NOTICES.md)
+[Visita la Bottega](https://ashnar2602.github.io/Griswold/) · [Contribuire](CONTRIBUTING.md) · [Licenze e attribuzioni](THIRD_PARTY_NOTICES.md)
 
 ## Cosa trovi
 
@@ -39,9 +39,9 @@ Lo stesso controllo viene eseguito da GitHub Actions sui push e sulle pull reque
 
 ## GitHub Pages
 
-Il sito è pronto per essere servito dalla radice del branch `main`, senza build. In **Settings → Pages**, scegli **Deploy from a branch → main → /(root)** e salva. Il file `.nojekyll` evita l'elaborazione Jekyll.
+GitHub Pages è configurato per pubblicare dalla radice del branch `main`, senza compilazione del progetto. Ogni push su `main` avvia la pubblicazione. Il file `.nojekyll` evita l'elaborazione Jekyll.
 
-L'indirizzo previsto dopo l'attivazione è **https://ashnar2602.github.io/Griswold/**; il pianificatore si trova in `simulatore/`. I collegamenti relativi supportano il percorso del repository. Verifica lo stato della pubblicazione in Settings → Pages e abilita HTTPS quando disponibile.
+Il sito è disponibile su **https://ashnar2602.github.io/Griswold/**; il [pianificatore](https://ashnar2602.github.io/Griswold/simulatore/) si trova in `simulatore/`. I collegamenti relativi supportano il percorso del repository. Lo stato della pubblicazione è consultabile in **Settings → Pages** e **Actions**.
 
 [Documentazione GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
 
