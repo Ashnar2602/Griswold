@@ -1,0 +1,247 @@
+{
+  "checked_at": "2026-10-02",
+  "patch": "3.2.2",
+  "season": 15,
+  "sources": [
+    {
+      "id": 1,
+      "title": "Blizzard · lancio Lord of Hatred / 3.0.0",
+      "url": "https://news.blizzard.com/en-us/article/24267729/prepare-for-the-reckoning-lord-of-hatred-draws-near",
+      "kind": "Ufficiale"
+    },
+    {
+      "id": 2,
+      "title": "Blizzard · archivio patch 3.0",
+      "url": "https://news.blizzard.com/en-us/article/24271857/diablo-iv-patch-notes-3-0",
+      "kind": "Ufficiale"
+    },
+    {
+      "id": 3,
+      "title": "Blizzard · archivio patch 3.1",
+      "url": "https://news.blizzard.com/en-us/article/24287406/diablo-iv-patch-notes-3-1",
+      "kind": "Ufficiale"
+    },
+    {
+      "id": 4,
+      "title": "Blizzard · Season 15 e patch 3.2.1",
+      "url": "https://news.blizzard.com/en-us/article/24295394/celebrate-30-years-of-diablo-in-season-of-hell-s-legacy",
+      "kind": "Ufficiale"
+    },
+    {
+      "id": 5,
+      "title": "Blizzard · patch 3.2.2, 30 settembre",
+      "url": "https://news.blizzard.com/en-gb/article/24295395/diablo-iv-patch-notes",
+      "kind": "Ufficiale"
+    },
+    {
+      "id": 6,
+      "title": "Blizzard · FAQ Lord of Hatred",
+      "url": "https://us.forums.blizzard.com/en/d4/t/diablo-iv-lord-of-hatred-faq-thread/245791",
+      "kind": "Ufficiale"
+    },
+    {
+      "id": 7,
+      "title": "Blizzard · patch 3.1.1a, 16 luglio",
+      "url": "https://us.forums.blizzard.com/en/d4/t/311a-patch-july-16-2026/263234",
+      "kind": "Ufficiale"
+    },
+    {
+      "id": 8,
+      "title": "Blizzard · hotfix 1–7 del lancio",
+      "url": "https://us.forums.blizzard.com/en/d4/t/hotfix-7-may-7-2026-301/251253/1",
+      "kind": "Ufficiale"
+    },
+    {
+      "id": 9,
+      "title": "Blizzard · hotfix 19 maggio",
+      "url": "https://us.forums.blizzard.com/en/d4/t/hotfix-1-may-19-2026-302/255377",
+      "kind": "Ufficiale"
+    },
+    {
+      "id": 10,
+      "title": "Blizzard · hotfix 3.1.0a–c",
+      "url": "https://us.forums.blizzard.com/en/d4/t/hotfix-3-july-10-2026-310c/262200",
+      "kind": "Ufficiale"
+    },
+    {
+      "id": 11,
+      "title": "Blizzard · server hotfix 21 luglio",
+      "url": "https://us.forums.blizzard.com/en/d4/t/server-hotfix-1-july-21-2026-311/263841",
+      "kind": "Ufficiale"
+    },
+    {
+      "id": 12,
+      "title": "Blizzard · hotfix 15 settembre",
+      "url": "https://us.forums.blizzard.com/en/d4/t/hotfix-1-september-15-2026-321/267056",
+      "kind": "Ufficiale"
+    },
+    {
+      "id": 13,
+      "title": "Blizzard · hotfix 17 settembre",
+      "url": "https://us.forums.blizzard.com/en/d4/t/hotfix-2-september-17-2026-321/267711",
+      "kind": "Ufficiale"
+    },
+    {
+      "id": 14,
+      "title": "Blizzard · hotfix 18 settembre",
+      "url": "https://us.forums.blizzard.com/en/d4/t/hotfix-3-september-18-2026-321/268294",
+      "kind": "Ufficiale"
+    },
+    {
+      "id": 15,
+      "title": "Blizzard · hotfix 22 settembre",
+      "url": "https://us.forums.blizzard.com/en/d4/t/hotfix-4-september-22-2026-321/269298",
+      "kind": "Ufficiale"
+    },
+    {
+      "id": 16,
+      "title": "Mobalytics · guida Cubo, 15 settembre",
+      "url": "https://mobalytics.gg/diablo-4/guides/d4-horadric-cube-crafting",
+      "kind": "Guida community"
+    },
+    {
+      "id": 17,
+      "title": "Icy Veins · tempra, Season 15",
+      "url": "https://www.icy-veins.com/d4/guides/tempering-guide/",
+      "kind": "Guida community"
+    },
+    {
+      "id": 18,
+      "title": "Icy Veins · rifinitura, Season 15",
+      "url": "https://www.icy-veins.com/d4/guides/masterworking-guide/",
+      "kind": "Guida community"
+    },
+    {
+      "id": 19,
+      "title": "D4Guides · ricetta Remove Affix",
+      "url": "https://d4guides.gg/en/database/horadric-cube/remove-affix",
+      "kind": "Database community"
+    },
+    {
+      "id": 20,
+      "title": "D4Guides · ricetta Focused Reroll",
+      "url": "https://d4guides.gg/en/database/horadric-cube/focused-reroll",
+      "kind": "Database community"
+    },
+    {
+      "id": 21,
+      "title": "D4Guides · Chaotic, Offensive → Random",
+      "url": "https://d4guides.gg/en/database/horadric-cube/offensive-random",
+      "kind": "Database community"
+    },
+    {
+      "id": 22,
+      "title": "D4Guides · Affix Value Reroll",
+      "url": "https://d4guides.gg/en/database/horadric-cube/affix-value-reroll",
+      "kind": "Database community"
+    },
+    {
+      "id": 23,
+      "title": "D4Guides · Horadric Reroll",
+      "url": "https://d4guides.gg/en/database/horadric-cube/horadric-reroll",
+      "kind": "Database community"
+    },
+    {
+      "id": 24,
+      "title": "D4Guides · Unique Power Reroll",
+      "url": "https://d4guides.gg/en/database/horadric-cube/unique-power-reroll-unique-power-reroll",
+      "kind": "Database community"
+    },
+    {
+      "id": 25,
+      "title": "Forum Blizzard · quattro affissi e tooltip",
+      "url": "https://us.forums.blizzard.com/en/d4/t/horadric-cube-add-affix-tooltip-incorrect/263862",
+      "kind": "Testimonianza giocatori"
+    },
+    {
+      "id": 26,
+      "title": "Forum Blizzard · GA e blocco tramite incantamento",
+      "url": "https://us.forums.blizzard.com/en/d4/t/question-about-greater-affix/258287",
+      "kind": "Testimonianza giocatori"
+    },
+    {
+      "id": 27,
+      "title": "Forum Blizzard · strategia per leggendari",
+      "url": "https://us.forums.blizzard.com/en/d4/t/horadric-cube-for-legendary-items/252588",
+      "kind": "Testimonianza giocatori"
+    },
+    {
+      "id": 28,
+      "title": "D4Guides · amuleto da una base, giugno",
+      "url": "https://d4guides.gg/en/guides/crafting-items/thanks-to-the-horadric-cube-from-nothing-to-gold",
+      "kind": "Guida storica / tecnica"
+    },
+    {
+      "id": 29,
+      "title": "r/diablo4 · affissi aggiunti e GA",
+      "url": "https://www.reddit.com/r/diablo4/comments/1ta375u/can_add_affix_be_a_greater_affix/",
+      "kind": "Testimonianza giocatori"
+    },
+    {
+      "id": 30,
+      "title": "r/diablo4 · differenza fra reroll dei talismani",
+      "url": "https://www.reddit.com/r/diablo4/comments/1wpa910/im_a_little_confused_on_horadric_cube_recipes_for/",
+      "kind": "Testimonianza giocatori"
+    },
+    {
+      "id": 31,
+      "title": "r/diablo4 · tabella prismi e correzioni",
+      "url": "https://www.reddit.com/r/diablo4/comments/1t7uq1l/yet_another_horadric_cube_affix_sheet/",
+      "kind": "Testimonianza giocatori"
+    },
+    {
+      "id": 32,
+      "title": "Forum Blizzard · problemi prismi, 30 settembre",
+      "url": "https://us.forums.blizzard.com/en/d4/t/tuning-prism-not-working-properly/270463",
+      "kind": "Segnalazione, non conferma di bug"
+    },
+    {
+      "id": 33,
+      "title": "Forum Blizzard · Chaotic Reroll, 24 settembre",
+      "url": "https://us.forums.blizzard.com/en/d4/t/chaotic-reroll-works-like-focused-reroll-the-majority-of-the-time/269519",
+      "kind": "Segnalazione, non conferma di bug"
+    },
+    {
+      "id": 34,
+      "title": "D4Guides · catalogo Cubo e Trasfigurazione",
+      "url": "https://d4guides.gg/en/horadric-cube",
+      "kind": "Database community"
+    },
+    {
+      "id": 35,
+      "title": "Icy Veins · catalogo storico Cubo",
+      "url": "https://www.icy-veins.com/d4/guides/horadric-cube-overview/",
+      "kind": "Guida con parti superate"
+    },
+    {
+      "id": 36,
+      "title": "Titanquisitor · esempio documentato di crafting",
+      "url": "https://titanquisitor.com/2026/05/02/diablo-iv-horadric-cube-guide-how-to-craft-best-gear/",
+      "kind": "Guida storica / tecnica"
+    },
+    {
+      "id": 37,
+      "title": "Duskforge · farming e rifinitura, settembre",
+      "url": "https://www.duskforge.gg/d4/guides/crafting/masterworking",
+      "kind": "Guida community"
+    },
+    {
+      "id": 38,
+      "title": "Blizzard · recap BlizzCon, 13 settembre",
+      "url": "https://news.blizzard.com/en-us/article/24297205/diablo-iv-what-s-next-panel-recap",
+      "kind": "Ufficiale"
+    },
+    {
+      "id": 39,
+      "title": "DiabloFilter · farming Mitici, Season 15",
+      "url": "https://diablofilter.com/guide/farm-tons-of-mythics-in-diablo-4-season-15",
+      "kind": "Guida community"
+    },
+    {
+      "id": 40,
+      "title": "Forum Blizzard · controllo del pool all’Occultista",
+      "url": "https://us.forums.blizzard.com/en/d4/t/i-need-serious-help-changing-max-health-into-max-resource-on-enigma-solved-typical-pebkac/269548",
+      "kind": "Testimonianza giocatori"
+    }
+  ]
+}

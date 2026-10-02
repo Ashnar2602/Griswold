@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Segnalazione privata di sicurezza
+    url: https://github.com/Ashnar2602/Griswold/security/policy
+    about: Usa il contatto indicato nella policy per problemi di sicurezza.
